@@ -65,7 +65,9 @@
 
 #### 第五周总结
 
+- [x] 云边协同开发：edgemesh环境配置；websocket开发；与tcp socket测试
 - [x] 完成云边协同结项报告
+- [ ] cpu，内存对比曲线(用于项目README)
 
 讨论：
 
@@ -74,3 +76,5 @@
 * Cloud-Edge Collaboration: Cloud  data receive, data compress, data sending, map updating
 
 * NeRF-based SLAM(AIR)
+
+**20220930纪要**
