@@ -52,7 +52,7 @@
 
 **20220919会议纪要**
 
-
+[]
 
 #### 第四周总结
 
@@ -63,8 +63,14 @@
 
 * 使用不同数据集测试ORB-SLAM2的实际表现
 
+#### 第五周总结
 
+- [x] 完成云边协同结项报告
 
-##### Tasks
+讨论：
 
-- [x] 准备该论文的PPT，做个汇报
+* AVP Dataset
+* Benchmark
+* Cloud-Edge Collaboration: Cloud  data receive, data compress, data sending, map updating
+
+* NeRF-based SLAM(AIR)
