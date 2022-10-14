@@ -91,3 +91,7 @@
 - [x] 阅读AVP-SLAM-PLUS代码(代码很简单，很多AVP-SLAM论文里的并没有复现出来)
 - [x] 阅读AVP-SLAM文献：比较有启发的有AVP-LOC
 - [ ] edgeslam的cpu, rmse表现测试
+
+Our dataset:
+* 测试光照变化下重定位
+* 不同位置开始
