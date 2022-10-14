@@ -80,3 +80,14 @@
 **20220930纪要**
 
 * 数据集：丁老师准备
+
+
+#### 第六周总结
+
+
+#### 第七周总结
+- [x] 云边协同开发：完成ros-melodic,orbslam2-dev,edgeslam-run镜像编译
+- [x] 完成orbslam2的cpu, rmse表现测试
+- [x] 阅读AVP-SLAM-PLUS代码(代码很简单，很多AVP-SLAM论文里的并没有复现出来)
+- [x] 阅读AVP-SLAM文献：比较有启发的有AVP-LOC
+- [ ] edgeslam的cpu, rmse表现测试
