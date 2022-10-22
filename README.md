@@ -101,3 +101,5 @@ Our dataset:
 - [x] 完成ORBSLAM3、VINS-Mono的单目模式测试数据集
 - [x] ORBSLAM3单目模式无法完整运行数据，经过调试参数仍然在转弯处会跟丢。打算使用imu+rgb+vins完成地图的构建，已测试bow的性能
 - [ ] imu外参数据
+
+* 调整会议时间？
