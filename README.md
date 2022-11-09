@@ -107,3 +107,12 @@ Our dataset:
 * 调整参数的数量级
 * 调整会议时间: 周四晚上八点(错开每月21)
 * 完整的pipeline: 对比bow(etc. classic method)和learning**重定位**的表现
+
+#### 第九周总结
+- [x] 完成内外参数解析
+- [x] 赶CVPR
+#### 第十周总结
+- [x] 赶CVPR
+
+#### 第十一周总结
+- [x] CVPR流产
