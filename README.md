@@ -116,3 +116,5 @@ Our dataset:
 
 #### 第十一周总结
 - [x] CVPR流产
+- [x] 数据集格式转换脚本(asl_to_rosbag)
+- [ ] 数据集imu数据正确性验证
